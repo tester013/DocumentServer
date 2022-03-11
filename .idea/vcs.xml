@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/core" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/core-fonts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dictionaries" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sdkjs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sdkjs-plugins/plugin-highlightcode" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sdkjs-plugins/plugin-macros" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sdkjs-plugins/plugin-mendeley" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sdkjs-plugins/plugin-ocr" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sdkjs-plugins/plugin-photoeditor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sdkjs-plugins/plugin-speech" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sdkjs-plugins/plugin-thesaurus" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sdkjs-plugins/plugin-translator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sdkjs-plugins/plugin-youtube" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sdkjs-plugins/plugin-zotero" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/web-apps" vcs="Git" />
+  </component>
+</project>
